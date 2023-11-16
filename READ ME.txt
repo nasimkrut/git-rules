@@ -1,0 +1,8 @@
+Запушить не получилось
+PS C:\Users\Petr 1\OneDrive\Рабочий стол\гит\git-rules999\git-rules> git push
+ERROR: Permission to kontur-courses/git-rules.git denied to nasimkrut.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+
+я прикрепил скрин и зипку.
